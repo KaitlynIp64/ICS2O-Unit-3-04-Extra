@@ -15,7 +15,7 @@ class Program
         //input
         Console.WriteLine("This program converts fahrenheit to celsius.");
         Console.WriteLine("");
-        Console.WriteLine("Formula = C = (a°F - 32) x 5/9");
+        Console.WriteLine("Formula = °C = (A°F - 32) x 5/9");
         Console.WriteLine("");
         Console.Write("Enter Fahrenheit : ");
         fahrenheit = Convert.ToInt32(Console.ReadLine());
